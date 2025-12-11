@@ -10,7 +10,12 @@ I’m currently improving my skills in:
 - 🔧 Programming (Python, Java, HTML)
 - 🤖 AI & Machine Learning (Regression, modelling, MATLAB)
 - 🌐 Web development
-  
+
+---
+
+This is my project you can see them my click the link below
+- Eldermine: http://www.eldermindgames.lnw.mn/
+- Prediction Chornic kidney disease: https://colab.research.google.com/drive/11F7bZ06DDyRrNDzB4yPifzlltsjaiRsO?usp=sharing
 ---
 Feel free to contact me.<br>
 Phone: 088-222-9337<br>
