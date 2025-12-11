@@ -12,8 +12,9 @@ I’m currently improving my skills in:
 - 🌐 Web development
   
 ---
-Feel free to contact me.
-Phone: 088-222-9337
+Feel free to contact me.<br>
+Phone: 088-222-9337<br>
 Email: piyanut.khai@ku.th
-Let’s build something great together. :)
 
+---
+## Let’s build something great together. :)
